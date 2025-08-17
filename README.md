@@ -40,10 +40,8 @@ If you use this repository, please cite:
 Benítez-Andrades JA, Prada-García C, et al. 
 Machine Learning-Based Prediction of Balance Performance in Schoolchildren Using Accelerometry.
 [Journal details when accepted].
-DOI: 10.5281/zenodo.xxxxxxx
+DOI: 10.5281/zenodo.16888953
 ```
-
-(Replace `xxxxx` with the actual Zenodo DOI once published.)
 
 ---
 
