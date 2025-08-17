@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16888953.svg)](https://doi.org/10.5281/zenodo.16888953)
 
 Machine learning experiments predicting outcomes of the **Flamingo** and **Balance Beam** tests in school-aged children using accelerometric features.
 
